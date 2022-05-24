@@ -20,12 +20,12 @@
   <img align="center" alt="Kaique-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
-## 🔎 Find Me on social medias
+## 🔎 &nbsp;Find Me on social medias
   </div>
   <a href="https://www.instagram.com/_martiinnss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatokaiquemartinsdasilvaferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaique-martins-449a041a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/skyez3ra/" target="_blanck"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-  ![Snake animation](https://github.com/kaiquemf/kaiquemf/blob/output/github-contribution-grid-snake.svg)
-                                                                          
-  </div>
+  
+![Snake animation](https://github.com/kaiquemf/kaiquemf/blob/output/github-contribution-grid-snake.svg)
+</div>
