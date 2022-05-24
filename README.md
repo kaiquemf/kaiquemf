@@ -19,6 +19,7 @@
   <img align="center" alt="Kaique-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kaique-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+  
 ## 🔎 Find Me on social medias
   </div>
   <a href="https://www.instagram.com/_martiinnss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
