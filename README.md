@@ -1,4 +1,4 @@
-## Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Kaique Martins!
+## Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px"> I'm Kaique Martins!
 
 - 👨‍💻 Working with Front-End
 - 📚 I’m currently learning about JavaScript, HTML, CSS, NodeJS and MySQL
