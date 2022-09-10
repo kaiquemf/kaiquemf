@@ -1,7 +1,7 @@
 ## Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="28px"> I'm Kaique Martins!
 
-- 👨‍💻 Working with Front-End
-- 📚 I’m currently learning about JavaScript, HTML, CSS, NodeJS and MySQL
+- 👨‍💻 Working with FullStack Development
+- 📚 I’m currently learning about ReactJS, MaterialUI, NodeJS and MySQL
 - 😍 I'm passionate about 3D animation, photography and space
 ##
 <div align="center">
