@@ -1,4 +1,4 @@
-## Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="28px" width="28px"> I'm Kaique Martins!
+## Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="16px" width="16px"> I'm Kaique Martins!
 
 - 👨‍💻 Working with FullStack Development
 - 📚 I’m currently learning about Java, Kotlin and PHP;
