@@ -6,7 +6,7 @@
 ##
 <div align="center">
   <a href="https://github.com/kaiquemf">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiquemf&theme=codeSTACKr"/> 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=codeSTACKr)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquemf&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquemf&layout=compact&langs_count=7&theme=codeSTACKr"/>
    </div>
