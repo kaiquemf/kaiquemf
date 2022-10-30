@@ -1,6 +1,6 @@
 ## Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px" width="20px"> I'm Kaique Martins!
 
-- 👨‍💻 Working with FullStack Development
+- 👨‍💻 Working with Full Stack Development
 - 📚 I’m currently learning about Java, Kotlin and PHP;
 - 😍 I'm passionate about 3D animation, photography and space
 ##
