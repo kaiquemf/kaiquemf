@@ -9,17 +9,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquemf&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquemf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true"/>
 
- ##
 </div>
+
 ## 🛠 &nbsp;Tech Stack
   <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Kaique-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kaique-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kaique-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kaique-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Kaique-Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Kaique-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Kaique-Kotlin" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Kaique-JS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Kaique-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Kaique-React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Kaique-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Kaique-Kotlin" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
   
 ## 🔎 &nbsp;Find Me on social medias
