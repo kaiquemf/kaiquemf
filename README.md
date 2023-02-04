@@ -26,6 +26,4 @@
   <a href = "mailto:contatokaiquemartinsdasilvaferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaique-martins-449a041a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/skyez3ra/" target="_blanck"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-
-![Snake animation](https://github.com/kaiquemf/kaiquemf/blob/output/github-contribution-grid-snake.svg)
 </div>
