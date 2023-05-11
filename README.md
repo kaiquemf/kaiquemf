@@ -1,7 +1,8 @@
 ## Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px" width="20px"> I'm Kaique Martins!
 
-- 👨‍💻 Working with Full Stack Development
-- 😍 I'm passionate about 3D animation, photography and space
+- 👨‍💻 Working with Full Stack Development;
+- 📚 Learning About Machine Learning and AI;
+- 🫶🏽 Love to talk about soccer and science.
 ##
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiquemf&theme=github_dark"/> 
