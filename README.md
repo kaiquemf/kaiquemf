@@ -1,4 +1,4 @@
-## Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px" width="20px"> I'm Kaique Martins!
+## Hello World 🌎 I'm Kaique Martins!
 
 - 👨‍💻 Working with Full Stack Development;
 - 📚 Learning About Machine Learning and AI;
